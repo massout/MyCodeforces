@@ -1,6 +1,4 @@
 #include <iostream>
-#include <string>
-#define ll long long int 
 
 using namespace std;
 
